@@ -19,7 +19,7 @@ This repository contains:
 | Assignment 3 | [📄 PDF](Tasks/Assignment%203.pdf) | [🎥 Watch](https://drive.google.com/file/d/1ihKkJGI3KtBElapYkXYGgmnYp2cHD73M/view?usp=sharing) | [💻 Code](Sample%20Codes/Assignment%203/) | — |
 | Assignment 4 | [📄 PDF](Tasks/Assignment%204.pdf) | [🎥 Watch](https://drive.google.com/file/d/1zHLNDweDVLNEPZdYSo6uFqeHbuqvnzT8/view?usp=sharing) | [💻 Code](Sample%20Codes/Assignment%204/) | — |
 | Assignment 5 | [📄 PDF](Tasks/Assignment%205.pdf) | [🎥 Watch](https://drive.google.com/file/d/1DPNjjviLlRtLGUdlQTjPXzPkmfmotiJK/view?usp=sharing) | [💻 Code](Sample%20Codes/Assignment%205/) | — |
-| Assignment 6 | [📄 PDF](Tasks/Assignment%206.pdf) | [🎥 Watch](https://drive.google.com/file/d/1DPNjjviLlRtLGUdlQTjPXzPkmfmotiJK/view?usp=sharing) | [💻 Code](Sample%20Codes/Assignment%206/) | [📚 Resources](Resources/Assignment_6_Sample_Research_Paper.pdf) |
+| Assignment 6 | [📄 PDF](Tasks/Assignment%206.pdf) | [🎥 Watch](https://drive.google.com/file/d/1h5RbDs1Q2gHGif8PZyj7yaBBFIu2A5il/view?usp=sharing) | [💻 Code](Sample%20Codes/Assignment%206/) | [📚 Resources](Resources/Assignment_6_Sample_Research_Paper.pdf) |
 | Assignment 7 | [📄 PDF](Tasks/Assignment%207.pdf) | — | [💻 Code](Sample%20Codes/Assignment%207/) | [📚 Resources](Resources/Assignment_7_Code.java) |
 | Assignment 8 | [📄 PDF](Tasks/Assignment%208.pdf) | — | [💻 Code](Sample%20Codes/Assignment%208/) | [📚 Resources](Resources/Assignment_8_Source_Code.py) |
 | Assignment 9 | [📄 PDF](Tasks/Assignment%209.pdf) | [🎥 Watch](https://drive.google.com/file/d/1DlBeCFi00HyNJvwzsNJrnY7-AfTlFuKR/view?usp=sharing) | [💻 Code](Sample%20Codes/Assignment%209/) | [📚 ](Resources/Assignment_9_Code_file.py) [📚 ](Resources/Assignment_9_Starter_Template.py)|
